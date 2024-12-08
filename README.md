@@ -7,9 +7,11 @@ Este repositorio contiene los ejercicios y proyectos desarrollados durante mi fo
 ## 📂 **Contenido del Repositorio**
 
 ### 🟡 **Ejercicios en Pascal**
-- Introducción a objetos.  
+- Introducción a Estructuras de datos.  
+- Introducción a Objetos.  
 - Gestión de productos en una verdulería utilizando objetos.  
-- Ejercicios con **Árboles Binarios de Búsqueda (ABB)**.  
+- Ejercicios con Árboles Binarios de Búsqueda (ABB).
+- Ejercicios con Árboles  (ABB). 
 - Simulación y almacenamiento de ventas para una empresa de catálogo.  
 
 ### 🔵 **Proyectos en Python**
