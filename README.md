@@ -1,38 +1,60 @@
 # 👨‍💻🎓 **Prácticas Universitarias**
 
-Este repositorio contiene los ejercicios y proyectos desarrollados durante mi formación en la carrera de **Ciencia de Datos**. Los trabajos incluyen prácticas en diversos lenguajes y herramientas clave para el análisis y manejo de datos.  
+Bienvenido/a a mi repositorio de prácticas universitarias. Aquí encontrarás los ejercicios y proyectos realizados durante mi formación en la carrera de **Ciencia de Datos**. Estas actividades abarcan una variedad de lenguajes, herramientas y enfoques fundamentales para el análisis, manejo y visualización de datos.  
 
 ---
 
 ## 📂 **Contenido del Repositorio**
 
 ### 🟡 **Ejercicios en Pascal**
-- Introducción a Estructuras de datos.  
-- Introducción a Objetos.  
-- Gestión de productos en una verdulería utilizando objetos.  
-- Ejercicios con Árboles Binarios de Búsqueda (ABB).
-- Ejercicios con Árboles  (ABB). 
-- Simulación y almacenamiento de ventas para una empresa de catálogo.  
+#### **Programación Imperativa**
+- Introducción al lenguaje.  
+- Iteración y repetición.  
+- Modularización.  
+- Manejo de datos estructurados: Corte de control.  
+- Arreglos.  
+- Punteros y listas.  
+- Estructuras dinámicas: Listas.  
+- Optimización: Eficiencia y debugging.  
+- Matrices.  
+- Merge.  
+- Recursión.  
+
+#### **Programación Orientada a Objetos (POO)**
+- Introducción a objetos.  
+- Clases y constructores.  
+- Uso del operador `self`.  
+- Composición y composición recursiva.  
+- Herencia.  
+- Gestión de productos en una verdulería mediante objetos.  
+- Implementación de Árboles Binarios de Búsqueda (ABB).  
+- Ejercicios con árboles genéricos y subclasificación de árboles.  
+
+---
+
+### 🟢 **Bases de Datos**
+- Consultas y manejo de datos con **SQL**.  
+- Proyectos prácticos utilizando **SQLite**.  
+
+---
 
 ### 🔵 **Proyectos en Python**
 - Análisis exploratorio de datos.  
-- Modelado y predicciones utilizando librerías como `pandas`, `numpy` y `scikit-learn`.  
+- Modelado y predicciones utilizando herramientas como `pandas`, `numpy` y `scikit-learn`.  
 
-### 🟢 **Bases de Datos**
-- Consultas y manejo de datos en **SQL**.  
-- Proyectos utilizando **SQLite**.  
+---
 
 ### 🟠 **Visualización de Datos**
-- Creación de **dashboards** con **Power BI**.  
-- Indicadores para la toma de decisiones.  
+- Diseño y creación de **dashboards** en **Power BI**.  
+- Implementación de indicadores clave para la toma de decisiones estratégicas.  
 
 ---
 
 ## 🎯 **Objetivo**
 
 El propósito de este repositorio es:  
-- 📘 Documentar mi progreso académico.  
-- 💡 Compartir soluciones prácticas que reflejen mi aprendizaje en programación, análisis de datos y desarrollo de software.  
+- 📘 Documentar mi desarrollo académico y técnico en el campo de la Ciencia de Datos.  
+- 💡 Compartir soluciones prácticas que demuestren mis habilidades en programación, análisis de datos y desarrollo de software.  
 
 ---
 
@@ -49,7 +71,7 @@ El propósito de este repositorio es:
 
 ## 📬 **Contacto**
 
-Si tienes preguntas, sugerencias o simplemente quieres colaborar, ¡contáctame!  
+Si tienes preguntas, sugerencias o deseas colaborar, ¡no dudes en contactarme!  
 
 - 📧 **Email**: [pablolube@gmail.com](mailto:pablolube@gmail.com)  
 - 💼 **LinkedIn**: [Pablo Luberriaga](https://www.linkedin.com/in/pabloluberriaga)  
@@ -58,3 +80,4 @@ Si tienes preguntas, sugerencias o simplemente quieres colaborar, ¡contáctame!
 ---
 
 **🌟 Gracias por visitar este repositorio. ¡Tu feedback es muy valioso!**  
+
