@@ -7,30 +7,12 @@ Bienvenido/a a mi repositorio de prácticas universitarias. Aquí encontrarás l
 ## 📂 **Contenido del Repositorio**
 
 ### 🟡 **Ejercicios en Pascal**
-#### **Programación Imperativa**
-- Introducción al lenguaje.  
-- Iteración y repetición.  
-- Modularización.  
-- Manejo de datos estructurados: Corte de control.  
-- Arreglos.  
-- Punteros y listas.  
-- Estructuras dinámicas: Listas.  
-- Optimización: Eficiencia y debugging.  
-- Matrices.  
-- Merge.  
-- Recursión.  
 
-#### **Programación Orientada a Objetos (POO)**
-- Introducción a objetos.  
-- Clases y constructores.  
-- Uso del operador `self`.  
-- Composición y composición recursiva.  
-- Herencia.  
-- Gestión de productos en una verdulería mediante objetos.  
-- Implementación de Árboles Binarios de Búsqueda (ABB).  
-- Ejercicios con árboles genéricos y subclasificación de árboles.  
+### Programación Imperativa
+Fundamentos, estructuras de datos (arreglos, listas, matrices), algoritmos avanzados (Merge, Recursión) y optimización.
 
----
+### Programación Orientada a Objetos (POO)
+Introducción a objetos, herencia, composición, manejo de estructuras avanzadas (ABB, árboles genéricos) y aplicaciones prácticas como la gestión de productos.
 
 ### 🟢 **Bases de Datos**
 - Consultas y manejo de datos con **SQL**.  
